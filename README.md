@@ -1,2 +1,3 @@
-# SQL-Data-Cleaning
-SQL Data Cleaning project using My SQL.
+# SQL 
+1-database code.
+2-SQL Data Cleaning project using My SQL.
